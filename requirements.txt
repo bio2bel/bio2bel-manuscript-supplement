@@ -12,6 +12,7 @@ expasy
 famplex
 go
 hippie
+hmdd
 hpo
 hsdn
 interpro

@@ -1,0 +1,17 @@
+    Name           Description                                                                   Terms  Relations
+--  -------------  --------------------------------------------------------------------------  -------  ------------------------------------------------------------------
+ 1  adeptus        Disease-specific differential gene expression                                        4943
+ 2  chebi          Bio2BEL ChEBI Manager                                                        138863
+ 3  complexportal  Manages the Bio2BEL Complex Portal database
+ 4  ddr            Disease-disease relationships                                                        2997
+ 5  drugbank       Drug-target interactions                                                      11292  25199
+ 7  expasy         Creates a connection to database and a persistent session using SQLAlchemy     6718
+ 8  go             Manager for Bio2BEL GO                                                        45026  92030
+ 9  hgnc           Human gene nomenclature and orthologies to mouse and rat                      42930  38734
+13  interpro       Protein-family and protein-domain memberships                                 36524  34611
+16  mirbase        A manager for Bio2BEL miRBase                                                 38589  edge_edge model is undefined/count_bel_relations is not overridden
+19  pfam           Manages the Bio2BEL PFAM database                                             17929
+20  phewascatalog  Gene-disease relationships                                                           364667
+21  phosphosite    Manager for PhosphoSitePlus                                                          edge_edge model is undefined/count_bel_relations is not overridden
+22  reactome       Protein-pathway and chemical-pathway memberships                              20751  138703
+23  sider          Drugs' side effects and indications                                                  339742

@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 source venv.sh
 
 mkdir results

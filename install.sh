@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 source venv.sh
 
 pip install psycopg2-binary tabulate

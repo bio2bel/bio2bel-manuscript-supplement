@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 source venv.sh
 
 while read p; do
